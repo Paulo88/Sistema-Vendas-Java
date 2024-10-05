@@ -3,28 +3,28 @@ Bem-vindo ao Sistema de Vendas, o lugar onde seus clientes se tornam compradores
 
 ## 🚀 Funcionalidades
 Aqui estão algumas coisas incríveis que você pode fazer com este sistema:
-- **Cadastrar Clientes:
+- Cadastrar Clientes:
 Você pode cadastrar quantos clientes quiser! É como um reality show, mas com menos drama. 🎤
 
-- **Ver Lista de Clientes:
-- Confira a lista de clientes. Quem sabe você não encontra aquele amigo que não vê há anos? 🤔
+- Ver Lista de Clientes:
+Confira a lista de clientes. Quem sabe você não encontra aquele amigo que não vê há anos? 🤔
 
-- **Excluir Cliente:
+- Excluir Cliente:
 Se um cliente não estiver mais na sua lista, você pode excluí-lo sem ressentimentos. Não se preocupe, não contaremos a ninguém! 😜
 
-- **Adicionar Compras:
+- Adicionar Compras:
 O que os clientes querem comprar? Aqui, a pergunta é: o que eles NÃO querem comprar? Temos tudo, desde roupas até eletrônicos! 🛒
 
-- **Excluir Compras:
+- Excluir Compras:
 Mudou de ideia? Sem problemas! Exclua compras facilmente e continue seu dia. A vida é cheia de escolhas! ❌
 
-- **Total a Pagar:
+- Total a Pagar:
 Quanto seus clientes devem? Descubra aqui, mas esteja preparado para alguns sustos (de preços, é claro)! 😱
 
-- **Desconto do Dia:
+- Desconto do Dia:
 Porque todo mundo ama um desconto! O percentual fica por sua conta. Faça seus clientes sorrirem ainda mais! 😁
 
-- **Sair:
+- Sair:
 Pronto para ir embora? Diga "tchau" e leve seus clientes com você... na sua mente, é claro! 👋
 
 ## 🎈 Como Usar
